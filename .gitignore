@@ -1,0 +1,33 @@
+# .gitignore for All-in-One App
+
+# Node.js / NPM
+node_modules/
+npm-debug.log
+
+# Environment variables
+.env
+
+# Compiled files
+build/
+dist/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# IDE and text editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+logs/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.swp
+
